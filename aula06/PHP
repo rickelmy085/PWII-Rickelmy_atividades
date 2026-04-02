@@ -1,0 +1,16 @@
+PHP
+Definição: Pré-processador de hipertexto. Linguagem de script. Coleta formulário de dados, gerenia arquivos
+do servido, modifica nossas bases de dados, entre outros.
+
+Linguagem: Open Source. Versão que estamos utilizamos agora 8.4
+
+Para que serve? utilizamos no desenvolvimento web para criar sites dinâmicos e interativos.
+
+LEMBRE-SE: PHP é uma linguagem de programação BackEnd e serve-side
+
+Serve-side: executado no servidor Web e não no navegador do usuário.
+
+Servido web: Apache por ex. Lê e execute o código que vc criaram no VsCode, NotePad++ atravez do
+interpretador PHP
+
+Lê, executa, faz cálculos e depois entrega a página pronta.
