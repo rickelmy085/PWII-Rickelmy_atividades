@@ -14,10 +14,9 @@ botao.addEventListener("click", function() {
 
 let lista = document.getElementById("lista");
 
-let novoItem = document.getElementById("li");
+let novoItem = document.createElement("li"); 
 
-novoItem.innerText = "Nasci para ser back-end";
+novoItem.innerText = "Nasci para ser back-end, odeio JS e amo GO";
 novoItem.style.color = "green";
 
 lista.appendChild(novoItem);
-<li style="color: green;"></li>
