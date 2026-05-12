@@ -34,7 +34,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" ) {
     if ($stmt->execute()) {
         echo "<h1>Sucesso!</h1>";
         echo "<p>banco de dados salvo</p>";
-        echo "<a href='idex.html'>Voltar</a>";
+        echo "<a href='index.html'>Voltar</a>";
     } else { 
         echo "Erro ao tentar salvor os dados";
     }
