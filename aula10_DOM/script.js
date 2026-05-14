@@ -1,3 +1,4 @@
+//Codigo do DOM para mexer direto no navegador
 let title = document.getElementById("title1");
 title.innerText = "DOM feito na maior boa";
 title.style.color = "blue";
